@@ -1,6 +1,6 @@
 # João Barreto
-Programador Back-End com experiência em Java e Spring Boot, e noções de Python. <br>
-Bacharelado em Engenharia de Software (3° período), UPE Campus Garanhuns.
+Programador Back-End com experiência em Java e Spring Boot, além de possuir noções básicas de Python. <br>
+Cursando Bacharelado em Engenharia de Software (3° período), UPE Campus Garanhuns.
 
 ## Principais projetos
 [Projeto ficheiro](https://github.com/JB-2499/projeto_ficheiro) - Um sistema de gerenciamento de ficheiros, programado apenas 
