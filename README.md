@@ -26,7 +26,7 @@ com o uso do Java "puro". Contém uma interface gráfica interativa e um sistema
 [Novo ficheiro](https://github.com/JB-2499/novo_ficheiro) - Continuação do projeto ficheiro, desenvolvido com o uso do Spring 
 Boot, tenho planos de implementar uma interface web com Javascript e HTML.
 
-[Gerenciamento escolar](https://github.com/JB-2499/novo_ficheiro) - Atividade final da disciplina de Programação II. Consiste 
+[Gerenciamento escolar](https://github.com/JB-2499/gerenciamento_escolar) - Atividade final da disciplina de Programação II. Consiste 
 em um sistema baseado em Spring Boot onde é possível registrar alunos e professores no sistema, e designá-los a turmas.
 
 ## Redes sociais
