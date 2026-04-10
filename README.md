@@ -23,7 +23,7 @@ Cursando Bacharelado em Engenharia de Software (3° período), UPE Campus Garanh
 [Projeto ficheiro](https://github.com/JB-2499/projeto_ficheiro) - Um sistema de gerenciamento de ficheiros, programado apenas 
 com o uso do Java "puro". Contém uma interface gráfica interativa e um sistema de contas de administração.
 
-[Sistema de registros](https://github.com/JB-2499/novo_ficheiro) - Sucessor do antigo "Projeto ficheiro", com o diferencial de ser
+[Gerenciador Empresarial](https://github.com/JB-2499/gerenciador_empresarial) - Sucessor do antigo "Projeto ficheiro", com o diferencial de ser
 desenvolvido com base em um projeto mais elaborado, desenvolvido a partir dos conhecimentos adiquiridos na minha formação em Engenharia 
 de Software.
 
