@@ -28,6 +28,13 @@ de Software.
 [Gerenciamento escolar](https://github.com/JB-2499/gerenciamento_escolar) - Atividade final da disciplina de Programação II. Consiste 
 em um sistema baseado em Spring Boot onde é possível registrar alunos e professores no sistema, e designá-los a turmas.
 
+## Atividade
+Atualmente estou dando menos foco ao estudo em Java, para focar mais em atividades relacionadas ao curso de E.S. No que tange a programação, meu estudo na faculdade consiste 
+principalmente no estudo de [Programação Funcional]("https://github.com/JB-2499/JB-2499/haskell"), com foco na linguagem Haskell, [Banco de Dados]("https://github.com/edienegomes/Sistema-supervisao-laboratorio"), com o PostgreSQL. Além disso, também estou pesquisando, de forma mais branda, sobre Algoritmos e Estrutura de dados e problemas de otimização.
+<br><br>
+
+Saindo um pouco do foco da faculdade em si, estou começando a pesquisar mais sobre códigos mais eficientes e programação "low-level", mesmo que de forma ainda muito rasa. Esses são tópicos aos quais eu já desenvolvi algum interesse desde o começo do ano. Porém, como se pode observar nos meus estudos sobre [C]("https://github.com/JB-2499/JB-2499/treino_c"), não cheguei a ir muito longe
+
 ## Redes sociais
 
 <div align="left">
