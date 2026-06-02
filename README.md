@@ -10,7 +10,7 @@ Bacharelando em Engenharia de Software (3° período), UPE Campus Garanhuns.
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 </div>
 
-## Status
+## 📊 Status
 <div align="left">
   <img width="320"
        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jb-2499&theme=tokyonight"/>
