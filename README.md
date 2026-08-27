@@ -1,6 +1,6 @@
 # João Barreto
-Programador Back-End com experiência em Java e Spring Boot, além de possuir noções básicas de Python. <br>
-Bacharelando em Engenharia de Software (3° período), UPE Campus Garanhuns.
+Desenvolvedor Back-End com experiência em Java e Spring Boot, além de possuir noções básicas de Rust e Python. <br>
+Bacharelando em Engenharia de Software (4° período), UPE Campus Garanhuns.
 
 ## 🛠️ Técnologias
 <div >
