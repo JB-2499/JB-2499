@@ -24,10 +24,6 @@ Bacharelando em Engenharia de Software (3° período), UPE Campus Garanhuns.
 [Projeto ficheiro](https://github.com/JB-2499/projeto_ficheiro) - Um sistema de gerenciamento de ficheiros, programado apenas 
 com o uso do Java "puro". Contém uma interface gráfica interativa e um sistema de contas de administração.
 
-[Gerenciador Empresarial](https://github.com/JB-2499/gerenciador_empresarial) - Sucessor do antigo "Projeto ficheiro", com o diferencial de ser
-desenvolvido com base em um projeto mais elaborado, desenvolvido a partir dos conhecimentos adiquiridos na minha formação em Engenharia 
-de Software.
-
 [Gerenciamento escolar](https://github.com/JB-2499/gerenciamento_escolar) - Atividade final da disciplina de Programação II. Consiste 
 em um sistema baseado em Spring Boot onde é possível registrar alunos e professores no sistema, e designá-los a turmas.
 
